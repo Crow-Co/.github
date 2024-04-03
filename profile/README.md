@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there! welcome to our page.
+Crow & Co. is a small scale team of a couple of people who work on various projects together.
 <!--
 
 **Here are some ideas to get you started:**
